@@ -13,4 +13,5 @@ Explique su respuesta.
 
 4. ¿Cómo se siente con el hecho de que sus aerolíneas 
 extraigan sus datos del vuelo? ¿Es esto distinto de las 
-empresas que extraen los datos de sus
+empresas que extraen los datos de sus compras con 
+tarjeta de crédito o de navegación Web?
