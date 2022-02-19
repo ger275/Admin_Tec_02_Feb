@@ -1,4 +1,5 @@
 Preguntas
+
 1.Describa los tipos de datos que las empresas analizan 
 en este caso.
 
