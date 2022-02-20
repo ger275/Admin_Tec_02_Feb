@@ -17,6 +17,7 @@ Explique su respuesta.
 extraigan sus datos del vuelo? ¿Es esto distinto de las 
 empresas que extraen los datos de sus compras con 
 tarjeta de crédito o de navegación Web?
+<<<<<<< HEAD
 
 
 # Pagina 116
@@ -28,3 +29,6 @@ Compare los modelos de negocios y las estrategias de negocio de Wal-Mart y Amazo
 ¿Qué rol desempeña la tecnología de la información en cada uno de estos negocios? ¿Cómo les ayuda a refinar sus estrategias de negocios?
 
 ¿Tendrá éxito Wal-Mart contra Amazon.com?
+=======
+Siento que están usando mi información para algún tipo de estadística y dependiendo del tipo de información que extraigan me podría sentir indiferente oindignado
+>>>>>>> Gerson
