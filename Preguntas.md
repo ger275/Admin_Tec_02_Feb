@@ -15,3 +15,4 @@ Explique su respuesta.
 extraigan sus datos del vuelo? ¿Es esto distinto de las 
 empresas que extraen los datos de sus compras con 
 tarjeta de crédito o de navegación Web?
+Siento que están usando mi información para algún tipo de estadística y dependiendo del tipo de información que extraigan me podría sentir indiferente oindignado
