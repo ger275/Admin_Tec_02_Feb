@@ -7,10 +7,14 @@ en este caso.
 
 2. ¿Cómo está mejorando este análisis de datos detallado 
 las operaciones y la toma de decisiones en las empresas 
-descritas en este caso? ¿Qué estrategias de negocios se 
-están apoyando? 
+descritas en este caso? 
 
 *Este analisis ha beneficiado de gran manera porque los datos son recopilados, gestionados y mantienen un orden, con lo que la toma de decisiones en las empresas se ha vuelto mas acertiva y con ella han obtenido utilidades y buen rendimiento en estos casos.
+
+¿Qué estrategias de negocios se están apoyando? 
+
+*En la toma de decisiones importantes los negocios empresariales buscan formas de optimizar el procesamiento, analisis, almacenamiento de toda la metadata que manejan. Por medio de los sistemas se planifican formulaciones con la finalidad de implementarlo en el area que mas crean conveniente y efectivo, es por ello que el control  de los procesos y en la toma de decisiones es algo muy importante para ellos. La incorporacion de la tecnologia es una estrategia para obtener beneficios en la toma de decisiones y los procesos de negocio que manejan.
+
 
 3. ¿Hay desventajas al extraer los datos de los clientes? 
 Explique su respuesta.
