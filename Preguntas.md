@@ -19,7 +19,7 @@ empresas que extraen los datos de sus compras con
 tarjeta de crédito o de navegación Web?
 
 
-# Pagina 106
+# Pagina 116
 
 Analice a Wal-Mart y Amazon.com usando los modelos de fuerzas competitivas y la cadena de valor
 
