@@ -10,6 +10,8 @@ las operaciones y la toma de decisiones en las empresas
 descritas en este caso? ¿Qué estrategias de negocios se 
 están apoyando? 
 
+*Este analisis ha beneficiado de gran manera porque los datos son recopilados, gestionados y mantienen un orden, con lo que la toma de decisiones en las empresas se ha vuelto mas acertiva y con ella han obtenido utilidades y buen rendimiento en estos casos.
+
 3. ¿Hay desventajas al extraer los datos de los clientes? 
 Explique su respuesta.
 
